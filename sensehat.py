@@ -28,3 +28,4 @@ outputJson = json.dumps(output)
 print(type(outputJson))
 
 # for HTTP Post: https://www.geeksforgeeks.org/get-post-requests-using-python/
+# for simu: https://trinket.io/sense-hat
